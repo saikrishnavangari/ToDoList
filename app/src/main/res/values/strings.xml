@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="addNew">ADD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnsave">save</string>
+    <string name="btncancel">cancel</string>
+    <string name="tasks_hint">enter tasks title</string>
+    <string name="desc_hint">enter description</string>
+    <string name="date_hint">enter date</string>
+</resources>
